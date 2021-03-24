@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "v87FkoXYKU0VToH9VRgV4yLP4v0WJf9r+6DUg0RxguRW0LrISEb6gSW9nOzQJpJka09DmRvzC6c2+uYYmtT2kw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lijup\\source\\repos\\SalaryCalculator\\SalaryCalculator\\SalaryCalculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lijup\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

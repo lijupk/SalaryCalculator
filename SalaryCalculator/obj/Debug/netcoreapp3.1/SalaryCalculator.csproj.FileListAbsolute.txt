@@ -1,0 +1,16 @@
+C:\Users\lijup\source\repos\SalaryCalculator\SalaryCalculator\bin\Debug\netcoreapp3.1\SalaryCalculator.exe
+C:\Users\lijup\source\repos\SalaryCalculator\SalaryCalculator\bin\Debug\netcoreapp3.1\SalaryCalculator.deps.json
+C:\Users\lijup\source\repos\SalaryCalculator\SalaryCalculator\bin\Debug\netcoreapp3.1\SalaryCalculator.runtimeconfig.json
+C:\Users\lijup\source\repos\SalaryCalculator\SalaryCalculator\bin\Debug\netcoreapp3.1\SalaryCalculator.runtimeconfig.dev.json
+C:\Users\lijup\source\repos\SalaryCalculator\SalaryCalculator\bin\Debug\netcoreapp3.1\SalaryCalculator.dll
+C:\Users\lijup\source\repos\SalaryCalculator\SalaryCalculator\bin\Debug\netcoreapp3.1\SalaryCalculator.pdb
+C:\Users\lijup\source\repos\SalaryCalculator\SalaryCalculator\obj\Debug\netcoreapp3.1\SalaryCalculator.csprojAssemblyReference.cache
+C:\Users\lijup\source\repos\SalaryCalculator\SalaryCalculator\obj\Debug\netcoreapp3.1\SalaryCalculator.AssemblyInfoInputs.cache
+C:\Users\lijup\source\repos\SalaryCalculator\SalaryCalculator\obj\Debug\netcoreapp3.1\SalaryCalculator.AssemblyInfo.cs
+C:\Users\lijup\source\repos\SalaryCalculator\SalaryCalculator\obj\Debug\netcoreapp3.1\SalaryCalculator.csproj.CoreCompileInputs.cache
+C:\Users\lijup\source\repos\SalaryCalculator\SalaryCalculator\obj\Debug\netcoreapp3.1\SalaryCalculator.dll
+C:\Users\lijup\source\repos\SalaryCalculator\SalaryCalculator\obj\Debug\netcoreapp3.1\SalaryCalculator.pdb
+C:\Users\lijup\source\repos\SalaryCalculator\SalaryCalculator\obj\Debug\netcoreapp3.1\SalaryCalculator.genruntimeconfig.cache
+C:\Users\lijup\source\repos\SalaryCalculator\SalaryCalculator\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\lijup\source\repos\SalaryCalculator\SalaryCalculator\obj\Debug\netcoreapp3.1\SalaryCalculator.csproj.CopyComplete
+C:\Users\lijup\source\repos\SalaryCalculator\SalaryCalculator\bin\Debug\netcoreapp3.1\Data\TaxFile.json

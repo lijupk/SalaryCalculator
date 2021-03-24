@@ -1,0 +1,199 @@
+{
+  "taxRates": [
+    {
+      "year": 2020,
+      "superRate": 9.25,
+      "incomeTaxRange": [
+        {
+          "lower": "0",
+          "upper": "18200",
+          "rate": "0",
+          "fixedTax": "0"
+        },
+        {
+          "lower": "18201",
+          "upper": "37000",
+          "rate": "19",
+          "fixedTax": "0"
+        },
+        {
+          "lower": "37001",
+          "upper": "87000",
+          "rate": "32.5",
+          "fixedTax": "3572"
+        },
+        {
+          "lower": "87001",
+          "upper": "180000",
+          "rate": "37",
+          "fixedTax": "19822"
+        },
+        {
+          "lower": "180001",
+          "upper": "",
+          "rate": "47",
+          "fixedTax": "54232"
+        }
+      ],
+      "medicareLevyIncomeRange": [
+        {
+          "lower": "0",
+          "upper": "21335",
+          "rate": "0"
+        },
+        {
+          "lower": "21336",
+          "upper": "26668",
+          "rate": "10"
+        },
+        {
+          "lower": "26669",
+          "upper": "",
+          "rate": "2"
+        }
+      ],
+      "budgetRepairLevyIncomeRange": [
+        {
+          "lower": "0",
+          "upper": "180000",
+          "rate": "0"
+        },
+        {
+          "lower": "180001",
+          "upper": "",
+          "rate": "2"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "superRate": 9.5,
+      "incomeTaxRange": [
+        {
+          "lower": "0",
+          "upper": "18200",
+          "rate": "0",
+          "fixedTax": "0"
+        },
+        {
+          "lower": "18201",
+          "upper": "37000",
+          "rate": "19",
+          "fixedTax": "0"
+        },
+        {
+          "lower": "37001",
+          "upper": "87000",
+          "rate": "32.5",
+          "fixedTax": "3572"
+        },
+        {
+          "lower": "87001",
+          "upper": "180000",
+          "rate": "37",
+          "fixedTax": "19822"
+        },
+        {
+          "lower": "180001",
+          "upper": "",
+          "rate": "47",
+          "fixedTax": "54232"
+        }
+      ],
+      "medicareLevyIncomeRange": [
+        {
+          "lower": "0",
+          "upper": "21335",
+          "rate": "0"
+        },
+        {
+          "lower": "21336",
+          "upper": "26668",
+          "rate": "10"
+        },
+        {
+          "lower": "26669",
+          "upper": "",
+          "rate": "2"
+        }
+      ],
+      "budgetRepairLevyIncomeRange": [
+        {
+          "lower": "0",
+          "upper": "180000",
+          "rate": "0"
+        },
+        {
+          "lower": "180001",
+          "upper": "",
+          "rate": "2"
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "superRate": 9.75,
+      "incomeTaxRange": [
+        {
+          "lower": "0",
+          "upper": "18200",
+          "rate": "0",
+          "fixedTax": "0"
+        },
+        {
+          "lower": "18201",
+          "upper": "37000",
+          "rate": "19",
+          "fixedTax": "0"
+        },
+        {
+          "lower": "37001",
+          "upper": "87000",
+          "rate": "32.5",
+          "fixedTax": "3572"
+        },
+        {
+          "lower": "87001",
+          "upper": "180000",
+          "rate": "37",
+          "fixedTax": "19822"
+        },
+        {
+          "lower": "180001",
+          "upper": "",
+          "rate": "47",
+          "fixedTax": "54232"
+        }
+      ],
+      "medicareLevyIncomeRange": [
+        {
+          "lower": "0",
+          "upper": "21335",
+          "rate": "0"
+        },
+        {
+          "lower": "21336",
+          "upper": "26668",
+          "rate": "10"
+        },
+        {
+          "lower": "26669",
+          "upper": "",
+          "rate": "2"
+        }
+      ],
+      "budgetRepairLevyIncomeRange": [
+        {
+          "lower": "0",
+          "upper": "180000",
+          "rate": "0"
+        },
+        {
+          "lower": "180001",
+          "upper": "",
+          "rate": "2"
+        }
+      ]
+    }
+  ]
+}
